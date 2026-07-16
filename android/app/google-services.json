@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "696972384032",
+    "project_id": "ebantay-8290b",
+    "storage_bucket": "ebantay-8290b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696972384032:android:fd1787928b7b3bbf972945",
+        "android_client_info": {
+          "package_name": "com.ebantaymobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgjWA7ow99CU1PHeuD23czNyUKCeBg1QI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
